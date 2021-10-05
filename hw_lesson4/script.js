@@ -103,7 +103,6 @@ document.addEventListener('DOMContentLoaded',()=>{
 
 // Скрипт який виводить в консоль дату і час коли DOM побудований і css, зображення вже завантажились.
 document.addEventListener('DOMContentLoaded',()=>{
-    date1 = new Date
     console.log(" DOM побудований і css, зображення вже завантажились." + date)
 })
 
